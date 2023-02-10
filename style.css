@@ -1,0 +1,89 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: auto
+}
+header{
+    background-color:plum;
+    
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+header h1{
+    font-family: 'caveat' ;
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+header h2{
+    font-family: 'pacifico';
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+main{
+   background-color:whitesmoke;
+     height: 100%;
+    margin: 10px;
+    padding: 7%;
+   font-weight: bold;
+}
+
+main div img{
+    height: 30%;
+   width: 30%; 
+   align-items: flex-end;
+}
+
+.first{
+    font-family: 'Julee';
+    font-size: 25px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-kerning: normal;
+    
+}
+
+.second{
+    font-family: 'Dancing Script' ;
+    font-size: 25px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.third{
+    font-family: 'Julee';
+    font-size: 25px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-kerning: normal;
+}
+
+.fourth{
+    font-family: 'Dancing Script' ;
+    font-size: 25px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    line-height: 1.5;
+}
+
+footer{
+    background-color:plum;   
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+    
+}
